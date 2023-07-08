@@ -1,0 +1,13 @@
+{
+  "directory": [
+    "./src/controllers/rest",
+    "./src/controllers/pages",
+    "./src/controllers/rooms"
+  ],
+  "exclude": [
+    "__mock__",
+    "__mocks__",
+    ".spec.ts"
+  ],
+  "delete": true
+}
